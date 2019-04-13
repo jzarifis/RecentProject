@@ -1,0 +1,18 @@
+[parity]
+chain = "Recent.json"
+[network]
+interface = "127.0.0.1"
+port = 30300
+bootnodes = [
+"enode://e86a30cae37dd92c1ea1428e95edd90255c48fc659398d9c532c0c2cd15e1558859a4acb1c29098c1857034086071fdd19187ac9426c2ccc026c6e9b4a0923ca@40.114.225.82:30300",
+"enode://c9cc234d20db95dc031f0355ece2ed8c5efd61542d8d19854246ecf9f65afa0e9b06a0b50a600b5aa98719df28ffddab2c6e070d86633b13d446a1fb827adc2e@104.214.239.216:30300"
+]
+[rpc] 
+disable = false 
+interface = "127.0.0.1"
+port = 8545
+cors = ["*"]  
+apis = ["web3", "eth", "net"]
+[websockets]
+disable = true
+port = 8546

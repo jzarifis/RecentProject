@@ -1,0 +1,1 @@
+parity --config Node.toml --allow-ips=public --no-discovery

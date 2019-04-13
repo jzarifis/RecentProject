@@ -1,0 +1,1 @@
+parity --config Validator.toml --allow-ips=public --no-discovery
