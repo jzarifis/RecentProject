@@ -19,3 +19,4 @@ port = 8450
 engine_signer = "0x85bac7f03158d3a89e7b1d2feeefc3ba38dd39cd"
 force_sealing = true
 reseal_on_txs = "all"
+min_gas_price = 1
