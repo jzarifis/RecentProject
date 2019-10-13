@@ -18,17 +18,10 @@
 	"1188000": {
             "list": ["0xab79347399915f9c0ca71cc0e4bd2a10e28da845","0x783f3d3fe426508d4cb70e7e957524ec8fb383f7"]
         },
-	"1263700": {
-            "list": ["0xab79347399915f9c0ca71cc0e4bd2a10e28da845","0x783f3d3fe426508d4cb70e7e957524ec8fb383f7","0x314623da8442b0c9c1e660a770c285089ce989b0"]
-        },
-	"1325900": {
-            "list": ["0xab79347399915f9c0ca71cc0e4bd2a10e28da845","0x783f3d3fe426508d4cb70e7e957524ec8fb383f7"]
-        },
 
-        "1326500": {
-            "contract": "0x47833C2f51108A9De57A88Cbc107C2798ec8C6B4"
+        "7500000000": {
+            "contract": "0x66b7f3bcae27da72d28fac7a86afe27149e13efa"
         }
-
     }
 }
             }
